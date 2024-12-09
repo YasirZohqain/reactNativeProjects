@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1052383599583",
+    "project_id": "react-native-firebase-ae93f",
+    "storage_bucket": "react-native-firebase-ae93f.firebasestorage.app",
+    "firebase_url": "https://react-native-firebase-ae93f-default-rtdb.asia-southeast1.firebasedatabase.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052383599583:android:b5c3700055df370ae0826a",
+        "android_client_info": {
+          "package_name": "com.rnfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcoo1WD47Eyx_Z9wZqjZu5qC0oiSNE7_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

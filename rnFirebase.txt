@@ -1,0 +1,6 @@
+1. create project on firebase
+2. after create we go to android / app / build.gradle here we have applicationId "<project>"
+3. run this command for ./gradlew signingReport
+4 ./debuging certificate // 5E:8F:16:06:2E:A3:CD:2C:4A:0D:54:78:76:BA:A6:F3:8C:AB:F6:25
+5. download and paste file android/app/ root file name is google.services.json
+6. add firebase SDK   
